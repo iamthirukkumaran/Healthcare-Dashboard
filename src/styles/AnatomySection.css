@@ -1,0 +1,51 @@
+.anatomy-section {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+}
+
+.anatomy-section h3 {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+.anatomy-image-container {
+  position: relative;
+  display: inline-block;
+}
+
+.anatomy-image {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px;
+}
+
+.anatomy-label {
+  position: absolute;
+  background-color: rgba(0, 123, 255, 0.85);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 8px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.anatomy-label.heart {
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.anatomy-label.lungs {
+  top: 35%;
+  left: 48%;
+  transform: translate(-50%, -50%);
+}
+
+.anatomy-label.brain {
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

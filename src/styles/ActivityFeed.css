@@ -1,0 +1,40 @@
+.activity-feed {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.05);
+}
+
+.activity-feed h3 {
+  margin-bottom: 16px;
+  font-size: 18px;
+  color: #333;
+}
+
+.activity-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.activity-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-top: 1px solid #eee;
+}
+
+.activity-item:first-child {
+  border-top: none;
+}
+
+.activity-time {
+  color: #888;
+  font-size: 14px;
+}
+
+.activity-desc {
+  color: #333;
+  font-size: 15px;
+}
