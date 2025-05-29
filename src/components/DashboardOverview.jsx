@@ -1,26 +1,27 @@
 import React from "react";
 import "../styles/DashboardOverview.css";
+import { MdPeople, MdCalendarToday, MdLocalHospital, MdAttachMoney } from "react-icons/md";
 
 const stats = [
   {
     title: "Patients",
     value: "124",
-    icon: "🧑‍⚕️",
+    icon: <MdPeople />,
   },
   {
     title: "Appointments",
     value: "87",
-    icon: "📅",
+    icon: <MdCalendarToday />,
   },
   {
     title: "Surgeries",
     value: "12",
-    icon: "🔪",
+    icon: <MdLocalHospital />,
   },
   {
     title: "Revenue",
     value: "$24K",
-    icon: "💰",
+    icon: <MdAttachMoney />,
   },
 ];
 
