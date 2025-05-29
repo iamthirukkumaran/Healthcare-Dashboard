@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Healthcare-Dashboard/static/css/main.d2aa9661.css",
+    "main.js": "/Healthcare-Dashboard/static/js/main.9ce1e840.js",
+    "static/media/3184191.jpg": "/Healthcare-Dashboard/static/media/3184191.1c521e24b803c2808c17.jpg",
+    "static/media/profile.png": "/Healthcare-Dashboard/static/media/profile.a841630d640bffe19011.png",
+    "static/media/5411457.jpg": "/Healthcare-Dashboard/static/media/5411457.7ff38aa64aa5113cc02b.jpg",
+    "static/media/white-girl.jpg": "/Healthcare-Dashboard/static/media/white-girl.9f69aae5923251b03ce4.jpg",
+    "static/media/customer-support.png": "/Healthcare-Dashboard/static/media/customer-support.3496c08fc021823629bd.png",
+    "static/media/analysis.png": "/Healthcare-Dashboard/static/media/analysis.d6cef89b2a6e20f62235.png",
+    "static/media/history.png": "/Healthcare-Dashboard/static/media/history.fc032c822d49e755e2a8.png",
+    "static/media/dashboard.png": "/Healthcare-Dashboard/static/media/dashboard.659d5881061ffa93f506.png",
+    "static/media/settings.png": "/Healthcare-Dashboard/static/media/settings.f7b1035622557c87aa8e.png",
+    "index.html": "/Healthcare-Dashboard/index.html",
+    "main.d2aa9661.css.map": "/Healthcare-Dashboard/static/css/main.d2aa9661.css.map",
+    "main.9ce1e840.js.map": "/Healthcare-Dashboard/static/js/main.9ce1e840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2aa9661.css",
+    "static/js/main.9ce1e840.js"
+  ]
+}
